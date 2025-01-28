@@ -1,0 +1,13 @@
+Supervised
+- Klasifikasi
+- Regresi
+
+Unsupervised
+- Regresi
+- Clustering
+
+Feature Engineering
+
+Overfitting dan Underfitting
+
+Optimasi Model dengan Hyperparameter Tuning
